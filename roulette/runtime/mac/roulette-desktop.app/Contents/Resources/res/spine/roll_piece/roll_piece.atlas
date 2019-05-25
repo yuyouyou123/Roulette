@@ -1,0 +1,118 @@
+
+roll_piece.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+piece01
+  rotate: false
+  xy: 0, 1408
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece02
+  rotate: false
+  xy: 0, 1056
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece03
+  rotate: false
+  xy: 472, 1408
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece04
+  rotate: false
+  xy: 0, 704
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece05
+  rotate: false
+  xy: 472, 1056
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece06
+  rotate: false
+  xy: 944, 1408
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece07
+  rotate: false
+  xy: 0, 352
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece08
+  rotate: false
+  xy: 472, 704
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece09
+  rotate: false
+  xy: 944, 1056
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece10
+  rotate: false
+  xy: 1416, 1408
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece11
+  rotate: false
+  xy: 0, 0
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece12
+  rotate: false
+  xy: 472, 352
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece13
+  rotate: false
+  xy: 944, 704
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece14
+  rotate: false
+  xy: 1416, 1056
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece15
+  rotate: false
+  xy: 472, 0
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1
+piece16
+  rotate: false
+  xy: 944, 352
+  size: 470, 350
+  orig: 470, 350
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+roll_fruit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+D_Hit_07
+  rotate: false
+  xy: 0, 0
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+jifenguozi
+  rotate: false
+  xy: 1048, 593
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+juice01
+  rotate: false
+  xy: 0, 663
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice02
+  rotate: false
+  xy: 0, 395
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice03
+  rotate: false
+  xy: 262, 663
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice04
+  rotate: false
+  xy: 0, 127
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice05
+  rotate: false
+  xy: 262, 395
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice06
+  rotate: false
+  xy: 524, 663
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice07
+  rotate: false
+  xy: 262, 127
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice08
+  rotate: false
+  xy: 524, 395
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice09
+  rotate: false
+  xy: 786, 663
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice10
+  rotate: false
+  xy: 524, 127
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice11
+  rotate: false
+  xy: 786, 395
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice12
+  rotate: false
+  xy: 1048, 663
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1
+juice13
+  rotate: false
+  xy: 786, 127
+  size: 260, 266
+  orig: 260, 266
+  offset: 0, 0
+  index: -1

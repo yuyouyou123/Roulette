@@ -1,0 +1,84 @@
+<Solution>
+  <PropertyGroup Name="roulette_widget" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Image">
+          <Folder Name="MainHall">
+            <Image Name="bangzhu.png" />
+            <Image Name="daoxuanze.png" />
+            <Image Name="fiyingcutter.png" />
+            <Image Name="kaishibiankuang.png" />
+            <Image Name="LOGO.png" />
+            <Image Name="Roulette.png" />
+            <Image Name="start.png" />
+            <Image Name="yinxiaoguan.png" />
+            <Image Name="yinxiaokai.png" />
+          </Folder>
+          <Folder Name="maxKnife">
+            <Image Name="daozi1.png" />
+            <Image Name="daozi2.png" />
+            <Image Name="daozi3.png" />
+            <Image Name="daozi4.png" />
+            <Image Name="daozi5.png" />
+            <Image Name="daozi6.png" />
+          </Folder>
+          <Folder Name="minKnife">
+            <Image Name="daozi1x.png" />
+            <Image Name="daozi2x.png" />
+            <Image Name="daozi3x.png" />
+            <Image Name="daozi4x.png" />
+            <Image Name="daozi5x.png" />
+            <Image Name="daozi6x.png" />
+          </Folder>
+          <Folder Name="Unlock">
+            <Image Name="1.png" />
+            <Image Name="1js.png" />
+            <Image Name="2.png" />
+            <Image Name="2js.png" />
+            <Image Name="3.png" />
+            <Image Name="3js.png" />
+            <Image Name="4.png" />
+            <Image Name="4js.png" />
+            <Image Name="5.png" />
+            <Image Name="5js.png" />
+            <Image Name="6.png" />
+            <Image Name="6js.png" />
+            <Image Name="dizuo.png" />
+            <Image Name="hengfu.png" />
+            <Image Name="jiantou.png" />
+            <Image Name="jiesuoyongjuzi.png" />
+            <Image Name="shuzi.png" />
+            <Image Name="Sure.png" />
+            <Image Name="Unlock.png" />
+          </Folder>
+          <Image Name="anniu.png" />
+          <Image Name="beijing.png" />
+          <Image Name="BOSS  CHEESE.png" />
+          <Image Name="dao.png" />
+          <Image Name="daozihei.png" />
+          <Image Name="daoziliang.png" />
+          <Image Name="fanhui.png" />
+          <Image Name="fruist.png" />
+          <Image Name="guangxiao.png" />
+          <Image Name="guanqiashu.png" />
+          <Image Name="guanqiashu2.png" />
+          <Image Name="huan.png" />
+          <Image Name="jifenguozi.png" />
+          <Image Name="RESTART.png" />
+          <Image Name="shuzi.png" />
+          <Image Name="shuzi1.png" />
+          <Image Name="shuzi3.png" />
+          <Image Name="STAGE_1.png" />
+          <Image Name="tubiao1.png" />
+          <Image Name="yuanpan1.png" />
+          <Image Name="yuanpan2.png" />
+          <Image Name="yuanpan3.png" />
+          <Image Name="yuanpan4.png" />
+          <Image Name="yuanpan5.png" />
+        </Folder>
+        <Project Name="RouletteMainLayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

@@ -1,0 +1,573 @@
+
+roll_level1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level1/roll_level1_part1_1
+  rotate: false
+  xy: 0, 781
+  size: 135, 241
+  orig: 135, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part1_2
+  rotate: false
+  xy: 0, 538
+  size: 114, 241
+  orig: 114, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part1_3
+  rotate: false
+  xy: 137, 781
+  size: 89, 241
+  orig: 89, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part1_4
+  rotate: false
+  xy: 0, 295
+  size: 64, 241
+  orig: 64, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part1_5
+  rotate: false
+  xy: 116, 538
+  size: 41, 241
+  orig: 41, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part1_6
+  rotate: false
+  xy: 228, 781
+  size: 15, 241
+  orig: 15, 241
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_6
+  rotate: false
+  xy: 228, 781
+  size: 15, 241
+  orig: 15, 241
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_6
+  rotate: false
+  xy: 228, 781
+  size: 15, 241
+  orig: 15, 241
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_6
+  rotate: false
+  xy: 228, 781
+  size: 15, 241
+  orig: 15, 241
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_1
+  rotate: false
+  xy: 961, 811
+  size: 209, 211
+  orig: 209, 211
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_2
+  rotate: false
+  xy: 1808, 753
+  size: 209, 174
+  orig: 209, 174
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_3
+  rotate: false
+  xy: 1596, 752
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_4
+  rotate: false
+  xy: 1384, 753
+  size: 209, 93
+  orig: 209, 93
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_5
+  rotate: false
+  xy: 200, 30
+  size: 209, 53
+  orig: 209, 53
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part2_6
+  rotate: false
+  xy: 961, 794
+  size: 209, 15
+  orig: 209, 15
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_6
+  rotate: false
+  xy: 961, 794
+  size: 209, 15
+  orig: 209, 15
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_6
+  rotate: false
+  xy: 961, 794
+  size: 209, 15
+  orig: 209, 15
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_6
+  rotate: false
+  xy: 961, 794
+  size: 209, 15
+  orig: 209, 15
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_1
+  rotate: false
+  xy: 1594, 353
+  size: 166, 133
+  orig: 166, 133
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_2
+  rotate: true
+  xy: 1762, 320
+  size: 166, 112
+  orig: 166, 112
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_3
+  rotate: true
+  xy: 266, 370
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_4
+  rotate: false
+  xy: 470, 337
+  size: 165, 63
+  orig: 165, 63
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_5
+  rotate: false
+  xy: 0, 11
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+level1/roll_level1_part3_6
+  rotate: true
+  xy: 1805, 585
+  size: 165, 15
+  orig: 165, 15
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_6
+  rotate: true
+  xy: 1805, 585
+  size: 165, 15
+  orig: 165, 15
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_6
+  rotate: true
+  xy: 1805, 585
+  size: 165, 15
+  orig: 165, 15
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_6
+  rotate: true
+  xy: 1805, 585
+  size: 165, 15
+  orig: 165, 15
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_1
+  rotate: false
+  xy: 268, 540
+  size: 137, 239
+  orig: 137, 239
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_2
+  rotate: false
+  xy: 614, 783
+  size: 116, 239
+  orig: 116, 239
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_3
+  rotate: false
+  xy: 732, 783
+  size: 90, 239
+  orig: 90, 239
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_4
+  rotate: false
+  xy: 200, 297
+  size: 64, 239
+  orig: 64, 239
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part1_5
+  rotate: false
+  xy: 157, 54
+  size: 41, 239
+  orig: 41, 239
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_1
+  rotate: false
+  xy: 1172, 811
+  size: 210, 211
+  orig: 210, 211
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_2
+  rotate: false
+  xy: 1384, 848
+  size: 210, 174
+  orig: 210, 174
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_3
+  rotate: false
+  xy: 1596, 888
+  size: 210, 134
+  orig: 210, 134
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_4
+  rotate: false
+  xy: 1808, 929
+  size: 210, 93
+  orig: 210, 93
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part2_5
+  rotate: true
+  xy: 407, 569
+  size: 210, 53
+  orig: 210, 53
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_1
+  rotate: false
+  xy: 1822, 618
+  size: 165, 133
+  orig: 165, 133
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_2
+  rotate: false
+  xy: 1822, 504
+  size: 165, 112
+  orig: 165, 112
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_3
+  rotate: true
+  xy: 1876, 337
+  size: 165, 88
+  orig: 165, 88
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_4
+  rotate: true
+  xy: 1966, 337
+  size: 165, 63
+  orig: 165, 63
+  offset: 0, 0
+  index: -1
+level2/roll_level2_part3_5
+  rotate: true
+  xy: 1989, 586
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_1
+  rotate: false
+  xy: 824, 783
+  size: 135, 239
+  orig: 135, 239
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_2
+  rotate: false
+  xy: 245, 781
+  size: 114, 241
+  orig: 114, 241
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_3
+  rotate: false
+  xy: 66, 295
+  size: 89, 241
+  orig: 89, 241
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_4
+  rotate: false
+  xy: 0, 52
+  size: 64, 241
+  orig: 64, 241
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part1_5
+  rotate: false
+  xy: 159, 538
+  size: 41, 241
+  orig: 41, 241
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_1
+  rotate: false
+  xy: 200, 85
+  size: 208, 210
+  orig: 208, 210
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_2
+  rotate: false
+  xy: 1172, 635
+  size: 209, 174
+  orig: 209, 174
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_3
+  rotate: false
+  xy: 961, 658
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_4
+  rotate: false
+  xy: 1383, 658
+  size: 209, 93
+  orig: 209, 93
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part2_5
+  rotate: false
+  xy: 1594, 697
+  size: 209, 53
+  orig: 209, 53
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_1
+  rotate: false
+  xy: 618, 187
+  size: 164, 132
+  orig: 164, 132
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_2
+  rotate: true
+  xy: 356, 372
+  size: 166, 112
+  orig: 166, 112
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_3
+  rotate: true
+  xy: 470, 402
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_4
+  rotate: false
+  xy: 637, 321
+  size: 165, 63
+  orig: 165, 63
+  offset: 0, 0
+  index: -1
+level3/roll_level3_part3_5
+  rotate: false
+  xy: 1876, 296
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_1
+  rotate: false
+  xy: 477, 782
+  size: 135, 240
+  orig: 135, 240
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_2
+  rotate: false
+  xy: 361, 781
+  size: 114, 241
+  orig: 114, 241
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_3
+  rotate: false
+  xy: 66, 52
+  size: 89, 241
+  orig: 89, 241
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_4
+  rotate: false
+  xy: 202, 538
+  size: 64, 241
+  orig: 64, 241
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part1_5
+  rotate: false
+  xy: 157, 295
+  size: 41, 241
+  orig: 41, 241
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_1
+  rotate: true
+  xy: 1594, 488
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_2
+  rotate: false
+  xy: 1383, 482
+  size: 209, 174
+  orig: 209, 174
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_3
+  rotate: true
+  xy: 462, 570
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_4
+  rotate: true
+  xy: 598, 571
+  size: 209, 93
+  orig: 209, 93
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part2_5
+  rotate: false
+  xy: 693, 728
+  size: 209, 53
+  orig: 209, 53
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_1
+  rotate: false
+  xy: 410, 202
+  size: 165, 133
+  orig: 165, 133
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_2
+  rotate: true
+  xy: 560, 402
+  size: 166, 112
+  orig: 166, 112
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_3
+  rotate: false
+  xy: 674, 386
+  size: 166, 88
+  orig: 166, 88
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_4
+  rotate: false
+  xy: 410, 137
+  size: 165, 63
+  orig: 165, 63
+  offset: 0, 0
+  index: -1
+level4/roll_level4_part3_5
+  rotate: true
+  xy: 577, 170
+  size: 165, 39
+  orig: 165, 39
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_1
+  rotate: false
+  xy: 1989, 549
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_2
+  rotate: false
+  xy: 693, 590
+  size: 178, 136
+  orig: 178, 136
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_3
+  rotate: false
+  xy: 618, 41
+  size: 155, 144
+  orig: 155, 144
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_4
+  rotate: false
+  xy: 905, 169
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_5
+  rotate: false
+  xy: 784, 186
+  size: 119, 133
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_6
+  rotate: false
+  xy: 693, 476
+  size: 167, 112
+  orig: 167, 112
+  offset: 0, 0
+  index: -1
+level5/roll_level5_part1_8
+  rotate: false
+  xy: 411, 0
+  size: 157, 135
+  orig: 157, 135
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 905, 79
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+smok_022
+  rotate: false
+  xy: 775, 56
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

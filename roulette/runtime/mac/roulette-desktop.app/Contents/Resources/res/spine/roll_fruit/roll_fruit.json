@@ -1,0 +1,154 @@
+{
+"skeleton": { "hash": "SHBx3nFpREX9Li+ukMLNJAmPjeo", "spine": "3.6.39", "width": 390, "height": 399, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "D_Hit_07", "parent": "root", "x": -6.25, "y": 19.94 },
+	{ "name": "bone", "parent": "root", "x": 1.6, "y": 71.71, "scaleX": 1.5, "scaleY": 1.5 },
+	{ "name": "jifenguozi", "parent": "root", "x": 9.38, "y": 27.41 },
+	{ "name": "jifenguozi2", "parent": "root", "x": -22.5, "y": 24.5 }
+],
+"slots": [
+	{ "name": "jifenguozi", "bone": "jifenguozi", "attachment": "jifenguozi" },
+	{ "name": "jifenguozi2", "bone": "jifenguozi2", "attachment": "jifenguozi" },
+	{ "name": "juice", "bone": "bone", "attachment": "juice01" },
+	{ "name": "line01", "bone": "root", "attachment": "line01" },
+	{ "name": "line02", "bone": "root", "attachment": "line02" },
+	{ "name": "D_Hit_07", "bone": "D_Hit_07", "attachment": "D_Hit_07", "blend": "additive" }
+],
+"path": [
+	{
+		"name": "line01",
+		"order": 1,
+		"bones": [ "jifenguozi" ],
+		"target": "line01",
+		"rotateMode": "chain",
+		"rotation": -6.2
+	},
+	{
+		"name": "line02",
+		"order": 0,
+		"bones": [ "jifenguozi2" ],
+		"target": "line02",
+		"rotateMode": "chain",
+		"rotation": 27.9
+	}
+],
+"skins": {
+	"default": {
+		"D_Hit_07": {
+			"D_Hit_07": { "x": -0.08, "y": -0.13, "width": 125, "height": 125 }
+		},
+		"jifenguozi": {
+			"jifenguozi": { "x": 0.49, "y": -2.63, "width": 71, "height": 68 }
+		},
+		"jifenguozi2": {
+			"jifenguozi": { "x": -0.56, "y": 0.9, "rotation": -106.93, "width": 71, "height": 68 }
+		},
+		"juice": {
+			"juice01": { "y": -111.8, "width": 260, "height": 266 },
+			"juice02": { "y": -111.8, "width": 260, "height": 266 },
+			"juice03": { "y": -111.8, "width": 260, "height": 266 },
+			"juice04": { "y": -111.8, "width": 260, "height": 266 },
+			"juice05": { "y": -111.8, "width": 260, "height": 266 },
+			"juice06": { "y": -111.8, "width": 260, "height": 266 },
+			"juice07": { "y": -111.8, "width": 260, "height": 266 },
+			"juice08": { "y": -111.8, "width": 260, "height": 266 },
+			"juice09": { "y": -111.8, "width": 260, "height": 266 },
+			"juice10": { "y": -111.8, "width": 260, "height": 266 },
+			"juice11": { "y": -111.8, "width": 260, "height": 266 },
+			"juice12": { "y": -111.8, "width": 260, "height": 266 },
+			"juice13": { "y": -111.8, "width": 260, "height": 266 }
+		},
+		"line01": {
+			"line01": {
+				"type": "path",
+				"lengths": [ 151.23, 651.57, 1148.8 ],
+				"vertexCount": 9,
+				"vertices": [ 11.3, 11.35, 10.94, 27.42, 10.58, 43.48, 65.49, 150.77, 107.14, 44.27, 131.96, -19.55, 204.39, -408.4, 206.17, -445.89, 207.68, -477.01 ]
+			}
+		},
+		"line02": {
+			"line02": {
+				"type": "path",
+				"lengths": [ 196.27, 623.05, 960.23 ],
+				"vertexCount": 9,
+				"vertices": [ 86.9, -369.59, -21.36, 24.73, -50.66, 130.67, -110.48, 78.7, -137.59, -5.63, -162.65, -82.89, -238.48, -382.02, -243.75, -418.91, -249.02, -455.81 ]
+			}
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"D_Hit_07": {
+				"color": [
+					{ "time": 0.0333, "color": "fffffffe" },
+					{ "time": 0.1, "color": "ffffff00" }
+				]
+			},
+			"jifenguozi": {
+				"color": [
+					{ "time": 0.3333, "color": "fffffffe" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"jifenguozi2": {
+				"color": [
+					{ "time": 0.3333, "color": "fffffffe" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"juice": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1, "color": "fffffffe" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "juice01" },
+					{ "time": 0.0333, "name": "juice02" },
+					{ "time": 0.0667, "name": "juice03" },
+					{ "time": 0.1, "name": "juice04" },
+					{ "time": 0.1333, "name": "juice05" },
+					{ "time": 0.1667, "name": "juice06" },
+					{ "time": 0.2, "name": "juice07" },
+					{ "time": 0.2333, "name": "juice08" },
+					{ "time": 0.2667, "name": "juice09" },
+					{ "time": 0.3, "name": "juice10" },
+					{ "time": 0.3333, "name": "juice11" },
+					{ "time": 0.3667, "name": "juice12" },
+					{ "time": 0.4, "name": "juice13" },
+					{ "time": 0.4333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"D_Hit_07": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.1, "x": 3, "y": 3 }
+				]
+			}
+		},
+		"paths": {
+			"line01": {
+				"position": [
+					{
+						"time": 0,
+						"curve": [ 0.055, 0.26, 0.443, -0.09 ]
+					},
+					{ "time": 0.5, "position": 1 }
+				]
+			},
+			"line02": {
+				"position": [
+					{
+						"time": 0,
+						"curve": [ 0.055, 0.26, 0.443, -0.09 ]
+					},
+					{ "time": 0.5, "position": 1 }
+				]
+			}
+		}
+	}
+}
+}
